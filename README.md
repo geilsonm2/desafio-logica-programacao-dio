@@ -1,8 +1,8 @@
 # Desafio de Lógica de Programação em JavaScript 🎲📚
 
-![Logo da Digital Innovation One](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
+[![Logo da Digital Innovation One](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://www.dio.me/)
 
-Este repositório contém o desafio de lógica de programação em JavaScript criado pelo Professor Felipe da Digital Innovation One.
+Este repositório contém o desafio de lógica de programação em JavaScript criado pelo Professor [Felipe Aguiar](https://www.linkedin.com/in/felipe-exe/) da Digital Innovation One.
 
 ## Descrição do Desafio 💻💻
 
