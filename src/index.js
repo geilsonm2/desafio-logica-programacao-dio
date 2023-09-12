@@ -1,5 +1,5 @@
 let nomeHeroi = 'Soneca.q'
-let quantidadeXP = 9000
+let quantidadeXP = 12000
 
 
 if (quantidadeXP <= 1000){
@@ -30,7 +30,7 @@ if (quantidadeXP <= 1000){
     nivelHeroi = "Imortal"
     console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivelHeroi)
 
-}else if(quantidadeXP >= 10000){
+}else{
     nivelHeroi = "Radiante"
     console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivelHeroi)
 }
