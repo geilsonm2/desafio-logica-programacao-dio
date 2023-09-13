@@ -1,5 +1,5 @@
 let nomeHeroi = 'Soneca.q';
-let quantidadeXP = 2000;
+let quantidadeXP = 500;
 
 const niveis = {
     0: 'Ferro',
