@@ -17,4 +17,4 @@ O objetivo deste desafio é aprimorar suas habilidades de resolução de problem
    ```bash
    git clone https://github.com/geilsonm2/desafio-logica-programacao-dio/blob/main/README.md
 
-- [@geilsonm2](https://github.com/geilsonm2)
+- [@geilsonm2](https://github.com/geilsonm2).
